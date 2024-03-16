@@ -131,3 +131,6 @@ dist
 
 
 .env
+
+# Stores JetBrains IDE files
+.idea/
